@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 //insertion sort
 public class InsertionSort {
-
     public static void insertionSort(int[] ar){
         for(int i=1; i< ar.length; i++){
             int temp = ar[i];
