@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//insertion sort
 public class InsertionSort {
 
     public static void insertionSort(int[] ar){

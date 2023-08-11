@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//selection sort
 public class SelectionSort {
 
     public static void selectionSort(int[] ar){
